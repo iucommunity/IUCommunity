@@ -63,6 +63,7 @@ I thrive on **technical leadership**: mentoring teams, driving architectural dec
 
 ---
 
+
 ### 💡 **Engineering Philosophy**
 
 *   **Architecture First:** I believe in strategic, evolutionary design that balances immediate business needs with long-term scalability and maintainability.
