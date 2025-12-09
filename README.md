@@ -78,5 +78,7 @@ I thrive on **technical leadership**: mentoring teams, driving architectural dec
 I'm always open to discussing transformative projects, architectural challenges, and leadership opportunities.
 
 *   **Email:** [iucommunity@proton.me](mailto:iucommunity@proton.me)
+*   **Discord:** [iucommunity]
+*   **Email:** [@iucommunity0]
 
 ---
