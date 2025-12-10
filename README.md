@@ -79,6 +79,6 @@ I'm always open to discussing transformative projects, architectural challenges,
 
 *   **Email:** [iucommunity@proton.me](mailto:iucommunity@proton.me)
 *   **Discord:** iucommunity
-*   **Email:** @iucommunity0
+*   **Telegram:** @iucommunity0
 
 ---
