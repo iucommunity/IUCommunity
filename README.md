@@ -78,6 +78,6 @@ I thrive on **technical leadership**: mentoring teams, driving architectural dec
 I'm always open to discussing transformative projects, architectural challenges, and leadership opportunities.
 
 *   **Discord:** iucommunity
-*   **Telegram:** @iucommunity0
+*   **Telegram:** @iucommunity_lead
 
 ---
